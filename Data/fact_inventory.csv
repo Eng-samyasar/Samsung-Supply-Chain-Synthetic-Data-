@@ -1,0 +1,1153 @@
+inventory_id,date_key,product_id,facility_id,stock_level,safety_stock_level,reorder_point,Safety_Status,Reorder_Status
+1,31,1,4,138,53,88,Safe,Sufficient Stock
+2,31,1,5,121,53,88,Safe,Sufficient Stock
+3,31,1,6,127,53,88,Safe,Sufficient Stock
+4,31,2,4,232,113,145,Safe,Sufficient Stock
+5,31,2,5,266,113,145,Safe,Sufficient Stock
+6,31,2,6,155,113,145,Safe,Sufficient Stock
+7,31,3,4,181,90,194,Safe,Overdue / Order Now
+8,31,3,5,129,90,194,Safe,Overdue / Order Now
+9,31,3,6,234,90,194,Safe,Sufficient Stock
+10,31,4,4,114,77,99,Safe,Sufficient Stock
+11,31,4,5,113,77,99,Safe,Sufficient Stock
+12,31,4,6,151,77,99,Safe,Sufficient Stock
+13,31,5,4,222,130,192,Safe,Sufficient Stock
+14,31,5,5,276,130,192,Safe,Sufficient Stock
+15,31,5,6,239,130,192,Safe,Sufficient Stock
+16,31,6,4,254,106,182,Safe,Sufficient Stock
+17,31,6,5,258,106,182,Safe,Sufficient Stock
+18,31,6,6,262,106,182,Safe,Sufficient Stock
+19,31,7,4,111,77,129,Safe,Overdue / Order Now
+20,31,7,5,93,77,129,Safe,Overdue / Order Now
+21,31,7,6,91,77,129,Safe,Overdue / Order Now
+22,31,8,4,32,21,28,Safe,Sufficient Stock
+23,31,8,5,46,21,28,Safe,Sufficient Stock
+24,31,8,6,43,21,28,Safe,Sufficient Stock
+25,31,9,4,54,40,57,Safe,Overdue / Order Now
+26,31,9,5,53,40,57,Safe,Overdue / Order Now
+27,31,9,6,77,40,57,Safe,Sufficient Stock
+28,31,10,4,23,19,31,Safe,Overdue / Order Now
+29,31,10,5,55,19,31,Safe,Sufficient Stock
+30,31,10,6,56,19,31,Safe,Sufficient Stock
+31,31,11,4,77,42,60,Safe,Sufficient Stock
+32,31,11,5,43,42,60,Warning,Overdue / Order Now
+33,31,11,6,71,42,60,Safe,Sufficient Stock
+34,31,12,4,74,38,74,Safe,Reorder Point Reached
+35,31,12,5,90,38,74,Safe,Sufficient Stock
+36,31,12,6,80,38,74,Safe,Sufficient Stock
+37,31,13,4,51,20,39,Safe,Sufficient Stock
+38,31,13,5,45,20,39,Safe,Sufficient Stock
+39,31,13,6,42,20,39,Safe,Sufficient Stock
+40,31,14,4,19,10,21,Safe,Overdue / Order Now
+41,31,14,5,23,10,21,Safe,Sufficient Stock
+42,31,14,6,28,10,21,Safe,Sufficient Stock
+43,31,15,4,214,133,146,Safe,Sufficient Stock
+44,31,15,5,269,133,146,Safe,Sufficient Stock
+45,31,15,6,148,133,146,Safe,Sufficient Stock
+46,31,16,4,424,209,439,Safe,Overdue / Order Now
+47,31,16,5,551,209,439,Safe,Sufficient Stock
+48,31,16,6,611,209,439,Safe,Sufficient Stock
+49,59,1,4,60,32,65,Safe,Overdue / Order Now
+50,59,1,5,84,32,65,Safe,Sufficient Stock
+51,59,1,6,43,32,65,Safe,Overdue / Order Now
+52,59,2,4,366,166,219,Safe,Sufficient Stock
+53,59,2,5,311,166,219,Safe,Sufficient Stock
+54,59,2,6,258,166,219,Safe,Sufficient Stock
+55,59,3,4,135,101,236,Safe,Overdue / Order Now
+56,59,3,5,172,101,236,Safe,Overdue / Order Now
+57,59,3,6,241,101,236,Safe,Sufficient Stock
+58,59,4,4,117,61,101,Safe,Sufficient Stock
+59,59,4,5,103,61,101,Safe,Sufficient Stock
+60,59,4,6,68,61,101,Safe,Overdue / Order Now
+61,59,5,4,295,145,200,Safe,Sufficient Stock
+62,59,5,5,291,145,200,Safe,Sufficient Stock
+63,59,5,6,225,145,200,Safe,Sufficient Stock
+64,59,6,4,268,98,207,Safe,Sufficient Stock
+65,59,6,5,265,98,207,Safe,Sufficient Stock
+66,59,6,6,273,98,207,Safe,Sufficient Stock
+67,59,7,4,129,71,127,Safe,Sufficient Stock
+68,59,7,5,84,71,127,Safe,Overdue / Order Now
+69,59,7,6,145,71,127,Safe,Sufficient Stock
+70,59,8,4,32,22,48,Safe,Overdue / Order Now
+71,59,8,5,37,22,48,Safe,Overdue / Order Now
+72,59,8,6,32,22,48,Safe,Overdue / Order Now
+73,59,9,4,77,31,69,Safe,Sufficient Stock
+74,59,9,5,80,31,69,Safe,Sufficient Stock
+75,59,9,6,99,31,69,Safe,Sufficient Stock
+76,59,10,4,44,22,28,Safe,Sufficient Stock
+77,59,10,5,35,22,28,Safe,Sufficient Stock
+78,59,10,6,28,22,28,Safe,Reorder Point Reached
+79,59,11,4,30,16,28,Safe,Sufficient Stock
+80,59,11,5,39,16,28,Safe,Sufficient Stock
+81,59,11,6,35,16,28,Safe,Sufficient Stock
+82,59,12,4,63,24,37,Safe,Sufficient Stock
+83,59,12,5,29,24,37,Safe,Overdue / Order Now
+84,59,12,6,56,24,37,Safe,Sufficient Stock
+85,59,13,4,50,23,36,Safe,Sufficient Stock
+86,59,13,5,52,23,36,Safe,Sufficient Stock
+87,59,13,6,40,23,36,Safe,Sufficient Stock
+88,59,14,4,19,9,14,Safe,Sufficient Stock
+89,59,14,5,10,9,14,Safe,Overdue / Order Now
+90,59,14,6,16,9,14,Safe,Sufficient Stock
+91,59,15,4,293,119,263,Safe,Sufficient Stock
+92,59,15,5,298,119,263,Safe,Sufficient Stock
+93,59,15,6,219,119,263,Safe,Overdue / Order Now
+94,59,16,4,74,43,78,Safe,Overdue / Order Now
+95,59,16,5,59,43,78,Safe,Overdue / Order Now
+96,59,16,6,56,43,78,Safe,Overdue / Order Now
+97,90,1,4,253,146,180,Safe,Sufficient Stock
+98,90,1,5,243,146,180,Safe,Sufficient Stock
+99,90,1,6,132,146,180,Critical,Overdue / Order Now
+100,90,2,4,157,78,129,Safe,Sufficient Stock
+101,90,2,5,79,78,129,Warning,Overdue / Order Now
+102,90,2,6,91,78,129,Safe,Overdue / Order Now
+103,90,3,4,141,63,131,Safe,Sufficient Stock
+104,90,3,5,134,63,131,Safe,Sufficient Stock
+105,90,3,6,135,63,131,Safe,Sufficient Stock
+106,90,4,4,130,98,122,Safe,Sufficient Stock
+107,90,4,5,196,98,122,Safe,Sufficient Stock
+108,90,4,6,130,98,122,Safe,Sufficient Stock
+109,90,5,4,120,50,82,Safe,Sufficient Stock
+110,90,5,5,146,50,82,Safe,Sufficient Stock
+111,90,5,6,98,50,82,Safe,Sufficient Stock
+112,90,6,4,56,42,105,Safe,Overdue / Order Now
+113,90,6,5,120,42,105,Safe,Sufficient Stock
+114,90,6,6,103,42,105,Safe,Overdue / Order Now
+115,90,7,4,79,44,68,Safe,Sufficient Stock
+116,90,7,5,87,44,68,Safe,Sufficient Stock
+117,90,7,6,90,44,68,Safe,Sufficient Stock
+118,90,8,4,122,59,81,Safe,Sufficient Stock
+119,90,8,5,62,59,81,Warning,Overdue / Order Now
+120,90,8,6,99,59,81,Safe,Sufficient Stock
+121,90,9,4,111,62,107,Safe,Sufficient Stock
+122,90,9,5,80,62,107,Safe,Overdue / Order Now
+123,90,9,6,74,62,107,Safe,Overdue / Order Now
+124,90,10,4,61,37,53,Safe,Sufficient Stock
+125,90,10,5,60,37,53,Safe,Sufficient Stock
+126,90,10,6,46,37,53,Safe,Overdue / Order Now
+127,90,11,4,24,19,29,Safe,Overdue / Order Now
+128,90,11,5,35,19,29,Safe,Sufficient Stock
+129,90,11,6,24,19,29,Safe,Overdue / Order Now
+130,90,12,4,25,13,33,Safe,Overdue / Order Now
+131,90,12,5,21,13,33,Safe,Overdue / Order Now
+132,90,12,6,23,13,33,Safe,Overdue / Order Now
+133,90,13,4,11,11,15,Warning,Overdue / Order Now
+134,90,13,5,11,11,15,Warning,Overdue / Order Now
+135,90,13,6,11,11,15,Warning,Overdue / Order Now
+136,90,14,4,39,31,34,Safe,Sufficient Stock
+137,90,14,5,44,31,34,Safe,Sufficient Stock
+138,90,14,6,38,31,34,Safe,Sufficient Stock
+139,90,15,4,181,97,192,Safe,Overdue / Order Now
+140,90,15,5,113,97,192,Safe,Overdue / Order Now
+141,90,15,6,138,97,192,Safe,Overdue / Order Now
+142,90,16,4,133,106,216,Safe,Overdue / Order Now
+143,90,16,5,136,106,216,Safe,Overdue / Order Now
+144,90,16,6,282,106,216,Safe,Sufficient Stock
+145,120,1,4,210,145,237,Safe,Overdue / Order Now
+146,120,1,5,224,145,237,Safe,Overdue / Order Now
+147,120,1,6,198,145,237,Safe,Overdue / Order Now
+148,120,2,4,128,86,160,Safe,Overdue / Order Now
+149,120,2,5,155,86,160,Safe,Overdue / Order Now
+150,120,2,6,181,86,160,Safe,Sufficient Stock
+151,120,3,4,141,91,137,Safe,Sufficient Stock
+152,120,3,5,176,91,137,Safe,Sufficient Stock
+153,120,3,6,189,91,137,Safe,Sufficient Stock
+154,120,4,4,367,127,205,Safe,Sufficient Stock
+155,120,4,5,212,127,205,Safe,Sufficient Stock
+156,120,4,6,167,127,205,Safe,Overdue / Order Now
+157,120,5,4,81,74,114,Warning,Overdue / Order Now
+158,120,5,5,151,74,114,Safe,Sufficient Stock
+159,120,5,6,116,74,114,Safe,Sufficient Stock
+160,120,6,4,180,140,299,Safe,Overdue / Order Now
+161,120,6,5,275,140,299,Safe,Overdue / Order Now
+162,120,6,6,335,140,299,Safe,Sufficient Stock
+163,120,7,4,115,50,91,Safe,Sufficient Stock
+164,120,7,5,147,50,91,Safe,Sufficient Stock
+165,120,7,6,94,50,91,Safe,Sufficient Stock
+166,120,8,4,71,35,51,Safe,Sufficient Stock
+167,120,8,5,33,35,51,Critical,Overdue / Order Now
+168,120,8,6,56,35,51,Safe,Sufficient Stock
+169,120,9,4,77,35,57,Safe,Sufficient Stock
+170,120,9,5,45,35,57,Safe,Overdue / Order Now
+171,120,9,6,83,35,57,Safe,Sufficient Stock
+172,120,10,4,15,12,17,Safe,Overdue / Order Now
+173,120,10,5,20,12,17,Safe,Sufficient Stock
+174,120,10,6,26,12,17,Safe,Sufficient Stock
+175,120,11,4,70,35,57,Safe,Sufficient Stock
+176,120,11,5,99,35,57,Safe,Sufficient Stock
+177,120,11,6,84,35,57,Safe,Sufficient Stock
+178,120,12,4,48,19,37,Safe,Sufficient Stock
+179,120,12,5,20,19,37,Warning,Overdue / Order Now
+180,120,12,6,25,19,37,Safe,Overdue / Order Now
+181,120,13,4,82,31,72,Safe,Sufficient Stock
+182,120,13,5,88,31,72,Safe,Sufficient Stock
+183,120,13,6,83,31,72,Safe,Sufficient Stock
+184,120,14,4,47,29,51,Safe,Overdue / Order Now
+185,120,14,5,34,29,51,Safe,Overdue / Order Now
+186,120,14,6,52,29,51,Safe,Sufficient Stock
+187,120,15,4,230,91,211,Safe,Sufficient Stock
+188,120,15,5,157,91,211,Safe,Overdue / Order Now
+189,120,15,6,243,91,211,Safe,Sufficient Stock
+190,120,16,4,478,311,429,Safe,Sufficient Stock
+191,120,16,5,389,311,429,Safe,Overdue / Order Now
+192,120,16,6,579,311,429,Safe,Sufficient Stock
+193,151,1,4,179,124,292,Safe,Overdue / Order Now
+194,151,1,5,201,124,292,Safe,Overdue / Order Now
+195,151,1,6,201,124,292,Safe,Overdue / Order Now
+196,151,2,4,252,138,226,Safe,Sufficient Stock
+197,151,2,5,174,138,226,Safe,Overdue / Order Now
+198,151,2,6,318,138,226,Safe,Sufficient Stock
+199,151,3,4,171,58,127,Safe,Sufficient Stock
+200,151,3,5,109,58,127,Safe,Overdue / Order Now
+201,151,3,6,81,58,127,Safe,Overdue / Order Now
+202,151,4,4,142,86,120,Safe,Sufficient Stock
+203,151,4,5,153,86,120,Safe,Sufficient Stock
+204,151,4,6,104,86,120,Safe,Overdue / Order Now
+205,151,5,4,221,149,238,Safe,Overdue / Order Now
+206,151,5,5,236,149,238,Safe,Overdue / Order Now
+207,151,5,6,177,149,238,Safe,Overdue / Order Now
+208,151,6,4,160,70,139,Safe,Sufficient Stock
+209,151,6,5,83,70,139,Safe,Overdue / Order Now
+210,151,6,6,111,70,139,Safe,Overdue / Order Now
+211,151,7,4,68,41,94,Safe,Overdue / Order Now
+212,151,7,5,86,41,94,Safe,Overdue / Order Now
+213,151,7,6,104,41,94,Safe,Sufficient Stock
+214,151,8,4,110,60,126,Safe,Overdue / Order Now
+215,151,8,5,164,60,126,Safe,Sufficient Stock
+216,151,8,6,104,60,126,Safe,Overdue / Order Now
+217,151,9,4,171,90,161,Safe,Sufficient Stock
+218,151,9,5,224,90,161,Safe,Sufficient Stock
+219,151,9,6,199,90,161,Safe,Sufficient Stock
+220,151,10,4,33,27,46,Safe,Overdue / Order Now
+221,151,10,5,54,27,46,Safe,Sufficient Stock
+222,151,10,6,32,27,46,Safe,Overdue / Order Now
+223,151,11,4,58,28,43,Safe,Sufficient Stock
+224,151,11,5,26,28,43,Critical,Overdue / Order Now
+225,151,11,6,48,28,43,Safe,Sufficient Stock
+226,151,12,4,30,12,21,Safe,Sufficient Stock
+227,151,12,5,23,12,21,Safe,Sufficient Stock
+228,151,12,6,24,12,21,Safe,Sufficient Stock
+229,151,13,4,62,23,32,Safe,Sufficient Stock
+230,151,13,5,53,23,32,Safe,Sufficient Stock
+231,151,13,6,43,23,32,Safe,Sufficient Stock
+232,151,14,4,17,16,30,Warning,Overdue / Order Now
+233,151,14,5,21,16,30,Safe,Overdue / Order Now
+234,151,14,6,29,16,30,Safe,Overdue / Order Now
+235,151,15,4,156,128,182,Safe,Overdue / Order Now
+236,151,15,5,203,128,182,Safe,Sufficient Stock
+237,151,15,6,237,128,182,Safe,Sufficient Stock
+238,151,16,4,168,120,213,Safe,Overdue / Order Now
+239,151,16,5,233,120,213,Safe,Sufficient Stock
+240,151,16,6,162,120,213,Safe,Overdue / Order Now
+241,181,1,4,125,98,170,Safe,Overdue / Order Now
+242,181,1,5,180,98,170,Safe,Sufficient Stock
+243,181,1,6,219,98,170,Safe,Sufficient Stock
+244,181,2,4,105,64,99,Safe,Sufficient Stock
+245,181,2,5,143,64,99,Safe,Sufficient Stock
+246,181,2,6,76,64,99,Safe,Overdue / Order Now
+247,181,3,4,118,51,71,Safe,Sufficient Stock
+248,181,3,5,86,51,71,Safe,Sufficient Stock
+249,181,3,6,75,51,71,Safe,Sufficient Stock
+250,181,4,4,129,84,123,Safe,Sufficient Stock
+251,181,4,5,118,84,123,Safe,Overdue / Order Now
+252,181,4,6,91,84,123,Warning,Overdue / Order Now
+253,181,5,4,117,67,110,Safe,Sufficient Stock
+254,181,5,5,75,67,110,Safe,Overdue / Order Now
+255,181,5,6,137,67,110,Safe,Sufficient Stock
+256,181,6,4,124,56,94,Safe,Sufficient Stock
+257,181,6,5,82,56,94,Safe,Overdue / Order Now
+258,181,6,6,100,56,94,Safe,Sufficient Stock
+259,181,7,4,56,42,84,Safe,Overdue / Order Now
+260,181,7,5,71,42,84,Safe,Overdue / Order Now
+261,181,7,6,84,42,84,Safe,Reorder Point Reached
+262,181,8,4,57,35,68,Safe,Overdue / Order Now
+263,181,8,5,83,35,68,Safe,Sufficient Stock
+264,181,8,6,68,35,68,Safe,Reorder Point Reached
+265,181,9,4,47,39,70,Safe,Overdue / Order Now
+266,181,9,5,62,39,70,Safe,Overdue / Order Now
+267,181,9,6,69,39,70,Safe,Overdue / Order Now
+268,181,10,4,39,21,49,Safe,Overdue / Order Now
+269,181,10,5,30,21,49,Safe,Overdue / Order Now
+270,181,10,6,57,21,49,Safe,Sufficient Stock
+271,181,11,4,49,21,38,Safe,Sufficient Stock
+272,181,11,5,25,21,38,Safe,Overdue / Order Now
+273,181,11,6,35,21,38,Safe,Overdue / Order Now
+274,181,12,4,37,25,32,Safe,Sufficient Stock
+275,181,12,5,47,25,32,Safe,Sufficient Stock
+276,181,12,6,21,25,32,Critical,Overdue / Order Now
+277,181,13,4,69,34,53,Safe,Sufficient Stock
+278,181,13,5,35,34,53,Warning,Overdue / Order Now
+279,181,13,6,74,34,53,Safe,Sufficient Stock
+280,181,14,4,25,17,23,Safe,Sufficient Stock
+281,181,14,5,24,17,23,Safe,Sufficient Stock
+282,181,14,6,35,17,23,Safe,Sufficient Stock
+283,181,15,4,276,138,287,Safe,Overdue / Order Now
+284,181,15,5,296,138,287,Safe,Sufficient Stock
+285,181,15,6,302,138,287,Safe,Sufficient Stock
+286,181,16,4,389,341,506,Safe,Overdue / Order Now
+287,181,16,5,305,341,506,Critical,Overdue / Order Now
+288,181,16,6,317,341,506,Critical,Overdue / Order Now
+289,212,1,4,184,77,106,Safe,Sufficient Stock
+290,212,1,5,186,77,106,Safe,Sufficient Stock
+291,212,1,6,118,77,106,Safe,Sufficient Stock
+292,212,2,4,165,66,103,Safe,Sufficient Stock
+293,212,2,5,79,66,103,Safe,Overdue / Order Now
+294,212,2,6,174,66,103,Safe,Sufficient Stock
+295,212,3,4,233,105,157,Safe,Sufficient Stock
+296,212,3,5,179,105,157,Safe,Sufficient Stock
+297,212,3,6,168,105,157,Safe,Sufficient Stock
+298,212,4,4,413,224,333,Safe,Sufficient Stock
+299,212,4,5,242,224,333,Warning,Overdue / Order Now
+300,212,4,6,413,224,333,Safe,Sufficient Stock
+301,212,5,4,175,141,213,Safe,Overdue / Order Now
+302,212,5,5,191,141,213,Safe,Overdue / Order Now
+303,212,5,6,282,141,213,Safe,Sufficient Stock
+304,212,6,4,102,86,97,Safe,Sufficient Stock
+305,212,6,5,131,86,97,Safe,Sufficient Stock
+306,212,6,6,157,86,97,Safe,Sufficient Stock
+307,212,7,4,137,65,88,Safe,Sufficient Stock
+308,212,7,5,101,65,88,Safe,Sufficient Stock
+309,212,7,6,134,65,88,Safe,Sufficient Stock
+310,212,8,4,93,84,128,Safe,Overdue / Order Now
+311,212,8,5,185,84,128,Safe,Sufficient Stock
+312,212,8,6,108,84,128,Safe,Overdue / Order Now
+313,212,9,4,157,91,132,Safe,Sufficient Stock
+314,212,9,5,121,91,132,Safe,Overdue / Order Now
+315,212,9,6,138,91,132,Safe,Sufficient Stock
+316,212,10,4,33,13,32,Safe,Sufficient Stock
+317,212,10,5,27,13,32,Safe,Overdue / Order Now
+318,212,10,6,25,13,32,Safe,Overdue / Order Now
+319,212,11,4,21,16,28,Safe,Overdue / Order Now
+320,212,11,5,27,16,28,Safe,Overdue / Order Now
+321,212,11,6,27,16,28,Safe,Overdue / Order Now
+322,212,12,4,28,29,45,Critical,Overdue / Order Now
+323,212,12,5,52,29,45,Safe,Sufficient Stock
+324,212,12,6,29,29,45,Warning,Overdue / Order Now
+325,212,13,4,21,15,31,Safe,Overdue / Order Now
+326,212,13,5,32,15,31,Safe,Sufficient Stock
+327,212,13,6,37,15,31,Safe,Sufficient Stock
+328,212,14,4,28,14,27,Safe,Sufficient Stock
+329,212,14,5,26,14,27,Safe,Overdue / Order Now
+330,212,14,6,21,14,27,Safe,Overdue / Order Now
+331,212,15,4,226,119,163,Safe,Sufficient Stock
+332,212,15,5,127,119,163,Warning,Overdue / Order Now
+333,212,15,6,195,119,163,Safe,Sufficient Stock
+334,212,16,4,284,114,213,Safe,Sufficient Stock
+335,212,16,5,163,114,213,Safe,Overdue / Order Now
+336,212,16,6,239,114,213,Safe,Sufficient Stock
+337,243,1,4,123,71,98,Safe,Sufficient Stock
+338,243,1,5,135,71,98,Safe,Sufficient Stock
+339,243,1,6,130,71,98,Safe,Sufficient Stock
+340,243,2,4,183,87,143,Safe,Sufficient Stock
+341,243,2,5,147,87,143,Safe,Sufficient Stock
+342,243,2,6,123,87,143,Safe,Overdue / Order Now
+343,243,3,4,192,78,166,Safe,Sufficient Stock
+344,243,3,5,181,78,166,Safe,Sufficient Stock
+345,243,3,6,124,78,166,Safe,Overdue / Order Now
+346,243,4,4,206,90,167,Safe,Sufficient Stock
+347,243,4,5,134,90,167,Safe,Overdue / Order Now
+348,243,4,6,214,90,167,Safe,Sufficient Stock
+349,243,5,4,166,67,146,Safe,Sufficient Stock
+350,243,5,5,124,67,146,Safe,Overdue / Order Now
+351,243,5,6,153,67,146,Safe,Sufficient Stock
+352,243,6,4,75,53,99,Safe,Overdue / Order Now
+353,243,6,5,108,53,99,Safe,Sufficient Stock
+354,243,6,6,85,53,99,Safe,Overdue / Order Now
+355,243,7,4,56,24,58,Safe,Overdue / Order Now
+356,243,7,5,55,24,58,Safe,Overdue / Order Now
+357,243,7,6,33,24,58,Safe,Overdue / Order Now
+358,243,8,4,134,55,108,Safe,Sufficient Stock
+359,243,8,5,132,55,108,Safe,Sufficient Stock
+360,243,8,6,135,55,108,Safe,Sufficient Stock
+361,243,9,4,147,71,130,Safe,Sufficient Stock
+362,243,9,5,137,71,130,Safe,Sufficient Stock
+363,243,9,6,112,71,130,Safe,Overdue / Order Now
+364,243,10,4,29,14,17,Safe,Sufficient Stock
+365,243,10,5,18,14,17,Safe,Sufficient Stock
+366,243,10,6,14,14,17,Warning,Overdue / Order Now
+367,243,11,4,35,23,36,Safe,Overdue / Order Now
+368,243,11,5,52,23,36,Safe,Sufficient Stock
+369,243,11,6,59,23,36,Safe,Sufficient Stock
+370,243,12,4,31,30,42,Warning,Overdue / Order Now
+371,243,12,5,52,30,42,Safe,Sufficient Stock
+372,243,12,6,32,30,42,Warning,Overdue / Order Now
+373,243,13,4,35,18,34,Safe,Sufficient Stock
+374,243,13,5,25,18,34,Safe,Overdue / Order Now
+375,243,13,6,20,18,34,Safe,Overdue / Order Now
+376,243,14,4,67,29,40,Safe,Sufficient Stock
+377,243,14,5,59,29,40,Safe,Sufficient Stock
+378,243,14,6,48,29,40,Safe,Sufficient Stock
+379,243,15,4,145,124,173,Safe,Overdue / Order Now
+380,243,15,5,189,124,173,Safe,Sufficient Stock
+381,243,15,6,155,124,173,Safe,Overdue / Order Now
+382,243,16,4,137,125,216,Warning,Overdue / Order Now
+383,243,16,5,218,125,216,Safe,Sufficient Stock
+384,243,16,6,177,125,216,Safe,Overdue / Order Now
+385,273,1,4,141,86,201,Safe,Overdue / Order Now
+386,273,1,5,243,86,201,Safe,Sufficient Stock
+387,273,1,6,251,86,201,Safe,Sufficient Stock
+388,273,2,4,186,105,166,Safe,Sufficient Stock
+389,273,2,5,118,105,166,Safe,Overdue / Order Now
+390,273,2,6,191,105,166,Safe,Sufficient Stock
+391,273,3,4,110,46,80,Safe,Sufficient Stock
+392,273,3,5,122,46,80,Safe,Sufficient Stock
+393,273,3,6,92,46,80,Safe,Sufficient Stock
+394,273,4,4,161,92,173,Safe,Overdue / Order Now
+395,273,4,5,250,92,173,Safe,Sufficient Stock
+396,273,4,6,127,92,173,Safe,Overdue / Order Now
+397,273,5,4,65,36,53,Safe,Sufficient Stock
+398,273,5,5,66,36,53,Safe,Sufficient Stock
+399,273,5,6,48,36,53,Safe,Overdue / Order Now
+400,273,6,4,156,87,99,Safe,Sufficient Stock
+401,273,6,5,144,87,99,Safe,Sufficient Stock
+402,273,6,6,149,87,99,Safe,Sufficient Stock
+403,273,7,4,81,68,85,Safe,Overdue / Order Now
+404,273,7,5,77,68,85,Safe,Overdue / Order Now
+405,273,7,6,99,68,85,Safe,Sufficient Stock
+406,273,8,4,68,64,73,Warning,Overdue / Order Now
+407,273,8,5,72,64,73,Safe,Overdue / Order Now
+408,273,8,6,102,64,73,Safe,Sufficient Stock
+409,273,9,4,177,89,171,Safe,Sufficient Stock
+410,273,9,5,153,89,171,Safe,Overdue / Order Now
+411,273,9,6,141,89,171,Safe,Overdue / Order Now
+412,273,10,4,78,27,59,Safe,Sufficient Stock
+413,273,10,5,58,27,59,Safe,Overdue / Order Now
+414,273,10,6,53,27,59,Safe,Overdue / Order Now
+415,273,11,4,83,35,59,Safe,Sufficient Stock
+416,273,11,5,87,35,59,Safe,Sufficient Stock
+417,273,11,6,81,35,59,Safe,Sufficient Stock
+418,273,12,4,78,35,62,Safe,Sufficient Stock
+419,273,12,5,78,35,62,Safe,Sufficient Stock
+420,273,12,6,69,35,62,Safe,Sufficient Stock
+421,273,13,4,20,14,27,Safe,Overdue / Order Now
+422,273,13,5,27,14,27,Safe,Reorder Point Reached
+423,273,13,6,37,14,27,Safe,Sufficient Stock
+424,273,14,4,34,23,40,Safe,Overdue / Order Now
+425,273,14,5,30,23,40,Safe,Overdue / Order Now
+426,273,14,6,27,23,40,Safe,Overdue / Order Now
+427,273,15,4,236,87,176,Safe,Sufficient Stock
+428,273,15,5,132,87,176,Safe,Overdue / Order Now
+429,273,15,6,209,87,176,Safe,Sufficient Stock
+430,273,16,4,303,151,171,Safe,Sufficient Stock
+431,273,16,5,264,151,171,Safe,Sufficient Stock
+432,273,16,6,272,151,171,Safe,Sufficient Stock
+433,304,1,4,228,86,166,Safe,Sufficient Stock
+434,304,1,5,231,86,166,Safe,Sufficient Stock
+435,304,1,6,129,86,166,Safe,Overdue / Order Now
+436,304,2,4,387,189,303,Safe,Sufficient Stock
+437,304,2,5,173,189,303,Critical,Overdue / Order Now
+438,304,2,6,381,189,303,Safe,Sufficient Stock
+439,304,3,4,231,98,178,Safe,Sufficient Stock
+440,304,3,5,198,98,178,Safe,Sufficient Stock
+441,304,3,6,143,98,178,Safe,Overdue / Order Now
+442,304,4,4,419,244,274,Safe,Sufficient Stock
+443,304,4,5,478,244,274,Safe,Sufficient Stock
+444,304,4,6,446,244,274,Safe,Sufficient Stock
+445,304,5,4,207,113,179,Safe,Sufficient Stock
+446,304,5,5,172,113,179,Safe,Overdue / Order Now
+447,304,5,6,199,113,179,Safe,Sufficient Stock
+448,304,6,4,360,150,301,Safe,Sufficient Stock
+449,304,6,5,228,150,301,Safe,Overdue / Order Now
+450,304,6,6,324,150,301,Safe,Sufficient Stock
+451,304,7,4,210,110,180,Safe,Sufficient Stock
+452,304,7,5,102,110,180,Critical,Overdue / Order Now
+453,304,7,6,177,110,180,Safe,Overdue / Order Now
+454,304,8,4,132,113,141,Safe,Overdue / Order Now
+455,304,8,5,130,113,141,Safe,Overdue / Order Now
+456,304,8,6,239,113,141,Safe,Sufficient Stock
+457,304,9,4,119,96,162,Safe,Overdue / Order Now
+458,304,9,5,248,96,162,Safe,Sufficient Stock
+459,304,9,6,216,96,162,Safe,Sufficient Stock
+460,304,10,4,50,26,43,Safe,Sufficient Stock
+461,304,10,5,30,26,43,Safe,Overdue / Order Now
+462,304,10,6,36,26,43,Safe,Overdue / Order Now
+463,304,11,4,85,33,59,Safe,Sufficient Stock
+464,304,11,5,50,33,59,Safe,Overdue / Order Now
+465,304,11,6,61,33,59,Safe,Sufficient Stock
+466,304,12,4,53,31,57,Safe,Overdue / Order Now
+467,304,12,5,64,31,57,Safe,Sufficient Stock
+468,304,12,6,55,31,57,Safe,Overdue / Order Now
+469,304,13,4,28,25,39,Safe,Overdue / Order Now
+470,304,13,5,31,25,39,Safe,Overdue / Order Now
+471,304,13,6,57,25,39,Safe,Sufficient Stock
+472,304,14,4,43,19,31,Safe,Sufficient Stock
+473,304,14,5,43,19,31,Safe,Sufficient Stock
+474,304,14,6,37,19,31,Safe,Sufficient Stock
+475,304,15,4,573,279,439,Safe,Sufficient Stock
+476,304,15,5,602,279,439,Safe,Sufficient Stock
+477,304,15,6,461,279,439,Safe,Sufficient Stock
+478,304,16,4,583,276,558,Safe,Sufficient Stock
+479,304,16,5,384,276,558,Safe,Overdue / Order Now
+480,304,16,6,444,276,558,Safe,Overdue / Order Now
+481,334,1,4,153,126,213,Safe,Overdue / Order Now
+482,334,1,5,239,126,213,Safe,Sufficient Stock
+483,334,1,6,119,126,213,Critical,Overdue / Order Now
+484,334,2,4,84,49,125,Safe,Overdue / Order Now
+485,334,2,5,70,49,125,Safe,Overdue / Order Now
+486,334,2,6,134,49,125,Safe,Sufficient Stock
+487,334,3,4,411,188,256,Safe,Sufficient Stock
+488,334,3,5,418,188,256,Safe,Sufficient Stock
+489,334,3,6,391,188,256,Safe,Sufficient Stock
+490,334,4,4,98,46,93,Safe,Sufficient Stock
+491,334,4,5,73,46,93,Safe,Overdue / Order Now
+492,334,4,6,131,46,93,Safe,Sufficient Stock
+493,334,5,4,238,158,302,Safe,Overdue / Order Now
+494,334,5,5,191,158,302,Safe,Overdue / Order Now
+495,334,5,6,347,158,302,Safe,Sufficient Stock
+496,334,6,4,176,118,120,Safe,Sufficient Stock
+497,334,6,5,157,118,120,Safe,Sufficient Stock
+498,334,6,6,222,118,120,Safe,Sufficient Stock
+499,334,7,4,69,60,81,Safe,Overdue / Order Now
+500,334,7,5,76,60,81,Safe,Overdue / Order Now
+501,334,7,6,110,60,81,Safe,Sufficient Stock
+502,334,8,4,78,68,91,Safe,Overdue / Order Now
+503,334,8,5,117,68,91,Safe,Sufficient Stock
+504,334,8,6,71,68,91,Warning,Overdue / Order Now
+505,334,9,4,136,58,101,Safe,Sufficient Stock
+506,334,9,5,134,58,101,Safe,Sufficient Stock
+507,334,9,6,159,58,101,Safe,Sufficient Stock
+508,334,10,4,102,49,88,Safe,Sufficient Stock
+509,334,10,5,104,49,88,Safe,Sufficient Stock
+510,334,10,6,53,49,88,Warning,Overdue / Order Now
+511,334,11,4,117,56,99,Safe,Sufficient Stock
+512,334,11,5,99,56,99,Safe,Reorder Point Reached
+513,334,11,6,126,56,99,Safe,Sufficient Stock
+514,334,12,4,27,20,34,Safe,Overdue / Order Now
+515,334,12,5,42,20,34,Safe,Sufficient Stock
+516,334,12,6,37,20,34,Safe,Sufficient Stock
+517,334,13,4,61,43,59,Safe,Sufficient Stock
+518,334,13,5,78,43,59,Safe,Sufficient Stock
+519,334,13,6,95,43,59,Safe,Sufficient Stock
+520,334,14,4,31,24,43,Safe,Overdue / Order Now
+521,334,14,5,46,24,43,Safe,Sufficient Stock
+522,334,14,6,54,24,43,Safe,Sufficient Stock
+523,334,15,4,291,176,330,Safe,Overdue / Order Now
+524,334,15,5,193,176,330,Warning,Overdue / Order Now
+525,334,15,6,397,176,330,Safe,Sufficient Stock
+526,334,16,4,160,117,218,Safe,Overdue / Order Now
+527,334,16,5,179,117,218,Safe,Overdue / Order Now
+528,334,16,6,222,117,218,Safe,Sufficient Stock
+529,365,1,4,408,166,309,Safe,Sufficient Stock
+530,365,1,5,369,166,309,Safe,Sufficient Stock
+531,365,1,6,251,166,309,Safe,Overdue / Order Now
+532,365,2,4,378,218,387,Safe,Overdue / Order Now
+533,365,2,5,299,218,387,Safe,Overdue / Order Now
+534,365,2,6,501,218,387,Safe,Sufficient Stock
+535,365,3,4,286,147,190,Safe,Sufficient Stock
+536,365,3,5,223,147,190,Safe,Sufficient Stock
+537,365,3,6,123,147,190,Critical,Overdue / Order Now
+538,365,4,4,58,47,60,Safe,Overdue / Order Now
+539,365,4,5,93,47,60,Safe,Sufficient Stock
+540,365,4,6,96,47,60,Safe,Sufficient Stock
+541,365,5,4,192,102,216,Safe,Overdue / Order Now
+542,365,5,5,255,102,216,Safe,Sufficient Stock
+543,365,5,6,182,102,216,Safe,Overdue / Order Now
+544,365,6,4,466,248,370,Safe,Sufficient Stock
+545,365,6,5,339,248,370,Safe,Overdue / Order Now
+546,365,6,6,454,248,370,Safe,Sufficient Stock
+547,365,7,4,93,34,79,Safe,Sufficient Stock
+548,365,7,5,51,34,79,Safe,Overdue / Order Now
+549,365,7,6,71,34,79,Safe,Overdue / Order Now
+550,365,8,4,165,82,134,Safe,Sufficient Stock
+551,365,8,5,79,82,134,Critical,Overdue / Order Now
+552,365,8,6,126,82,134,Safe,Overdue / Order Now
+553,365,9,4,229,93,184,Safe,Sufficient Stock
+554,365,9,5,173,93,184,Safe,Overdue / Order Now
+555,365,9,6,111,93,184,Safe,Overdue / Order Now
+556,365,10,4,44,33,52,Safe,Overdue / Order Now
+557,365,10,5,83,33,52,Safe,Sufficient Stock
+558,365,10,6,50,33,52,Safe,Overdue / Order Now
+559,365,11,4,74,42,87,Safe,Overdue / Order Now
+560,365,11,5,93,42,87,Safe,Sufficient Stock
+561,365,11,6,103,42,87,Safe,Sufficient Stock
+562,365,12,4,27,22,53,Safe,Overdue / Order Now
+563,365,12,5,44,22,53,Safe,Overdue / Order Now
+564,365,12,6,41,22,53,Safe,Overdue / Order Now
+565,365,13,4,76,30,52,Safe,Sufficient Stock
+566,365,13,5,56,30,52,Safe,Sufficient Stock
+567,365,13,6,67,30,52,Safe,Sufficient Stock
+568,365,14,4,49,30,49,Safe,Reorder Point Reached
+569,365,14,5,59,30,49,Safe,Sufficient Stock
+570,365,14,6,56,30,49,Safe,Sufficient Stock
+571,365,15,4,553,307,552,Safe,Sufficient Stock
+572,365,15,5,777,307,552,Safe,Sufficient Stock
+573,365,15,6,668,307,552,Safe,Sufficient Stock
+574,365,16,4,271,144,270,Safe,Sufficient Stock
+575,365,16,5,269,144,270,Safe,Overdue / Order Now
+576,365,16,6,347,144,270,Safe,Sufficient Stock
+577,396,1,4,107,68,86,Safe,Sufficient Stock
+578,396,1,5,110,68,86,Safe,Sufficient Stock
+579,396,1,6,110,68,86,Safe,Sufficient Stock
+580,396,2,4,223,118,148,Safe,Sufficient Stock
+581,396,2,5,212,118,148,Safe,Sufficient Stock
+582,396,2,6,171,118,148,Safe,Sufficient Stock
+583,396,3,4,88,45,113,Safe,Overdue / Order Now
+584,396,3,5,72,45,113,Safe,Overdue / Order Now
+585,396,3,6,74,45,113,Safe,Overdue / Order Now
+586,396,4,4,188,124,247,Safe,Overdue / Order Now
+587,396,4,5,224,124,247,Safe,Overdue / Order Now
+588,396,4,6,239,124,247,Safe,Overdue / Order Now
+589,396,5,4,284,118,153,Safe,Sufficient Stock
+590,396,5,5,290,118,153,Safe,Sufficient Stock
+591,396,5,6,145,118,153,Safe,Overdue / Order Now
+592,396,6,4,162,96,160,Safe,Sufficient Stock
+593,396,6,5,125,96,160,Safe,Overdue / Order Now
+594,396,6,6,127,96,160,Safe,Overdue / Order Now
+595,396,7,4,85,30,63,Safe,Sufficient Stock
+596,396,7,5,85,30,63,Safe,Sufficient Stock
+597,396,7,6,46,30,63,Safe,Overdue / Order Now
+598,396,8,4,44,39,67,Safe,Overdue / Order Now
+599,396,8,5,69,39,67,Safe,Sufficient Stock
+600,396,8,6,102,39,67,Safe,Sufficient Stock
+601,396,9,4,160,98,149,Safe,Sufficient Stock
+602,396,9,5,209,98,149,Safe,Sufficient Stock
+603,396,9,6,155,98,149,Safe,Sufficient Stock
+604,396,10,4,22,18,28,Safe,Overdue / Order Now
+605,396,10,5,35,18,28,Safe,Sufficient Stock
+606,396,10,6,26,18,28,Safe,Overdue / Order Now
+607,396,11,4,26,14,21,Safe,Sufficient Stock
+608,396,11,5,34,14,21,Safe,Sufficient Stock
+609,396,11,6,24,14,21,Safe,Sufficient Stock
+610,396,12,4,60,21,43,Safe,Sufficient Stock
+611,396,12,5,55,21,43,Safe,Sufficient Stock
+612,396,12,6,35,21,43,Safe,Overdue / Order Now
+613,396,13,4,56,36,74,Safe,Overdue / Order Now
+614,396,13,5,113,36,74,Safe,Sufficient Stock
+615,396,13,6,50,36,74,Safe,Overdue / Order Now
+616,396,14,4,24,11,22,Safe,Sufficient Stock
+617,396,14,5,17,11,22,Safe,Overdue / Order Now
+618,396,14,6,14,11,22,Safe,Overdue / Order Now
+619,396,15,4,139,98,170,Safe,Overdue / Order Now
+620,396,15,5,218,98,170,Safe,Sufficient Stock
+621,396,15,6,147,98,170,Safe,Overdue / Order Now
+622,396,16,4,163,122,158,Safe,Sufficient Stock
+623,396,16,5,207,122,158,Safe,Sufficient Stock
+624,396,16,6,164,122,158,Safe,Sufficient Stock
+625,425,1,4,72,55,98,Safe,Overdue / Order Now
+626,425,1,5,90,55,98,Safe,Overdue / Order Now
+627,425,1,6,81,55,98,Safe,Overdue / Order Now
+628,425,2,4,94,86,109,Warning,Overdue / Order Now
+629,425,2,5,100,86,109,Safe,Overdue / Order Now
+630,425,2,6,95,86,109,Safe,Overdue / Order Now
+631,425,3,4,63,39,70,Safe,Overdue / Order Now
+632,425,3,5,81,39,70,Safe,Sufficient Stock
+633,425,3,6,83,39,70,Safe,Sufficient Stock
+634,425,4,4,117,88,139,Safe,Overdue / Order Now
+635,425,4,5,130,88,139,Safe,Overdue / Order Now
+636,425,4,6,208,88,139,Safe,Sufficient Stock
+637,425,5,4,138,75,167,Safe,Overdue / Order Now
+638,425,5,5,164,75,167,Safe,Overdue / Order Now
+639,425,5,6,218,75,167,Safe,Sufficient Stock
+640,425,6,4,175,108,198,Safe,Overdue / Order Now
+641,425,6,5,132,108,198,Safe,Overdue / Order Now
+642,425,6,6,285,108,198,Safe,Sufficient Stock
+643,425,7,4,101,57,107,Safe,Overdue / Order Now
+644,425,7,5,78,57,107,Safe,Overdue / Order Now
+645,425,7,6,99,57,107,Safe,Overdue / Order Now
+646,425,8,4,79,53,73,Safe,Sufficient Stock
+647,425,8,5,49,53,73,Critical,Overdue / Order Now
+648,425,8,6,65,53,73,Safe,Overdue / Order Now
+649,425,9,4,45,37,71,Safe,Overdue / Order Now
+650,425,9,5,62,37,71,Safe,Overdue / Order Now
+651,425,9,6,54,37,71,Safe,Overdue / Order Now
+652,425,10,4,38,15,20,Safe,Sufficient Stock
+653,425,10,5,23,15,20,Safe,Sufficient Stock
+654,425,10,6,30,15,20,Safe,Sufficient Stock
+655,425,11,4,14,10,13,Safe,Sufficient Stock
+656,425,11,5,19,10,13,Safe,Sufficient Stock
+657,425,11,6,13,10,13,Safe,Reorder Point Reached
+658,425,12,4,46,25,44,Safe,Sufficient Stock
+659,425,12,5,57,25,44,Safe,Sufficient Stock
+660,425,12,6,27,25,44,Warning,Overdue / Order Now
+661,425,13,4,28,26,38,Warning,Overdue / Order Now
+662,425,13,5,32,26,38,Safe,Overdue / Order Now
+663,425,13,6,30,26,38,Safe,Overdue / Order Now
+664,425,14,4,41,25,35,Safe,Sufficient Stock
+665,425,14,5,36,25,35,Safe,Sufficient Stock
+666,425,14,6,42,25,35,Safe,Sufficient Stock
+667,425,15,4,521,240,342,Safe,Sufficient Stock
+668,425,15,5,372,240,342,Safe,Sufficient Stock
+669,425,15,6,297,240,342,Safe,Overdue / Order Now
+670,425,16,4,263,182,404,Safe,Overdue / Order Now
+671,425,16,5,308,182,404,Safe,Overdue / Order Now
+672,425,16,6,427,182,404,Safe,Sufficient Stock
+673,456,1,4,157,84,161,Safe,Overdue / Order Now
+674,456,1,5,165,84,161,Safe,Sufficient Stock
+675,456,1,6,207,84,161,Safe,Sufficient Stock
+676,456,2,4,89,49,88,Safe,Sufficient Stock
+677,456,2,5,127,49,88,Safe,Sufficient Stock
+678,456,2,6,114,49,88,Safe,Sufficient Stock
+679,456,3,4,151,90,131,Safe,Sufficient Stock
+680,456,3,5,150,90,131,Safe,Sufficient Stock
+681,456,3,6,128,90,131,Safe,Overdue / Order Now
+682,456,4,4,294,99,217,Safe,Sufficient Stock
+683,456,4,5,257,99,217,Safe,Sufficient Stock
+684,456,4,6,230,99,217,Safe,Sufficient Stock
+685,456,5,4,143,93,158,Safe,Overdue / Order Now
+686,456,5,5,170,93,158,Safe,Sufficient Stock
+687,456,5,6,163,93,158,Safe,Sufficient Stock
+688,456,6,4,116,77,110,Safe,Sufficient Stock
+689,456,6,5,181,77,110,Safe,Sufficient Stock
+690,456,6,6,136,77,110,Safe,Sufficient Stock
+691,456,7,4,49,24,29,Safe,Sufficient Stock
+692,456,7,5,35,24,29,Safe,Sufficient Stock
+693,456,7,6,26,24,29,Warning,Overdue / Order Now
+694,456,8,4,37,33,67,Safe,Overdue / Order Now
+695,456,8,5,48,33,67,Safe,Overdue / Order Now
+696,456,8,6,44,33,67,Safe,Overdue / Order Now
+697,456,9,4,103,48,99,Safe,Sufficient Stock
+698,456,9,5,92,48,99,Safe,Overdue / Order Now
+699,456,9,6,133,48,99,Safe,Sufficient Stock
+700,456,10,4,43,30,46,Safe,Overdue / Order Now
+701,456,10,5,61,30,46,Safe,Sufficient Stock
+702,456,10,6,36,30,46,Safe,Overdue / Order Now
+703,456,11,4,60,45,96,Safe,Overdue / Order Now
+704,456,11,5,74,45,96,Safe,Overdue / Order Now
+705,456,11,6,86,45,96,Safe,Overdue / Order Now
+706,456,12,4,33,27,51,Safe,Overdue / Order Now
+707,456,12,5,34,27,51,Safe,Overdue / Order Now
+708,456,12,6,49,27,51,Safe,Overdue / Order Now
+709,456,13,4,55,29,53,Safe,Sufficient Stock
+710,456,13,5,32,29,53,Safe,Overdue / Order Now
+711,456,13,6,35,29,53,Safe,Overdue / Order Now
+712,456,14,4,18,16,28,Safe,Overdue / Order Now
+713,456,14,5,28,16,28,Safe,Reorder Point Reached
+714,456,14,6,17,16,28,Warning,Overdue / Order Now
+715,456,15,4,330,135,243,Safe,Sufficient Stock
+716,456,15,5,169,135,243,Safe,Overdue / Order Now
+717,456,15,6,220,135,243,Safe,Overdue / Order Now
+718,456,16,4,376,195,424,Safe,Overdue / Order Now
+719,456,16,5,254,195,424,Safe,Overdue / Order Now
+720,456,16,6,417,195,424,Safe,Overdue / Order Now
+721,486,1,4,55,39,54,Safe,Sufficient Stock
+722,486,1,5,77,39,54,Safe,Sufficient Stock
+723,486,1,6,86,39,54,Safe,Sufficient Stock
+724,486,2,4,103,100,168,Warning,Overdue / Order Now
+725,486,2,5,222,100,168,Safe,Sufficient Stock
+726,486,2,6,102,100,168,Warning,Overdue / Order Now
+727,486,3,4,276,134,183,Safe,Sufficient Stock
+728,486,3,5,269,134,183,Safe,Sufficient Stock
+729,486,3,6,163,134,183,Safe,Overdue / Order Now
+730,486,4,4,296,132,238,Safe,Sufficient Stock
+731,486,4,5,132,132,238,Warning,Overdue / Order Now
+732,486,4,6,288,132,238,Safe,Sufficient Stock
+733,486,5,4,179,140,182,Safe,Overdue / Order Now
+734,486,5,5,249,140,182,Safe,Sufficient Stock
+735,486,5,6,118,140,182,Critical,Overdue / Order Now
+736,486,6,4,85,63,104,Safe,Overdue / Order Now
+737,486,6,5,105,63,104,Safe,Sufficient Stock
+738,486,6,6,182,63,104,Safe,Sufficient Stock
+739,486,7,4,63,52,87,Safe,Overdue / Order Now
+740,486,7,5,123,52,87,Safe,Sufficient Stock
+741,486,7,6,84,52,87,Safe,Overdue / Order Now
+742,486,8,4,166,54,112,Safe,Sufficient Stock
+743,486,8,5,149,54,112,Safe,Sufficient Stock
+744,486,8,6,124,54,112,Safe,Sufficient Stock
+745,486,9,4,136,50,111,Safe,Sufficient Stock
+746,486,9,5,91,50,111,Safe,Overdue / Order Now
+747,486,9,6,121,50,111,Safe,Sufficient Stock
+748,486,10,4,49,38,67,Safe,Overdue / Order Now
+749,486,10,5,69,38,67,Safe,Sufficient Stock
+750,486,10,6,75,38,67,Safe,Sufficient Stock
+751,486,11,4,45,21,36,Safe,Sufficient Stock
+752,486,11,5,43,21,36,Safe,Sufficient Stock
+753,486,11,6,24,21,36,Safe,Overdue / Order Now
+754,486,12,4,23,8,16,Safe,Sufficient Stock
+755,486,12,5,14,8,16,Safe,Overdue / Order Now
+756,486,12,6,13,8,16,Safe,Overdue / Order Now
+757,486,13,4,51,19,39,Safe,Sufficient Stock
+758,486,13,5,52,19,39,Safe,Sufficient Stock
+759,486,13,6,45,19,39,Safe,Sufficient Stock
+760,486,14,4,28,16,30,Safe,Overdue / Order Now
+761,486,14,5,31,16,30,Safe,Sufficient Stock
+762,486,14,6,31,16,30,Safe,Sufficient Stock
+763,486,15,4,176,174,234,Warning,Overdue / Order Now
+764,486,15,5,413,174,234,Safe,Sufficient Stock
+765,486,15,6,180,174,234,Warning,Overdue / Order Now
+766,486,16,4,364,138,291,Safe,Sufficient Stock
+767,486,16,5,355,138,291,Safe,Sufficient Stock
+768,486,16,6,334,138,291,Safe,Sufficient Stock
+769,517,1,4,147,78,101,Safe,Sufficient Stock
+770,517,1,5,82,78,101,Warning,Overdue / Order Now
+771,517,1,6,107,78,101,Safe,Sufficient Stock
+772,517,2,4,111,54,80,Safe,Sufficient Stock
+773,517,2,5,108,54,80,Safe,Sufficient Stock
+774,517,2,6,59,54,80,Warning,Overdue / Order Now
+775,517,3,4,39,32,64,Safe,Overdue / Order Now
+776,517,3,5,47,32,64,Safe,Overdue / Order Now
+777,517,3,6,65,32,64,Safe,Sufficient Stock
+778,517,4,4,94,102,128,Critical,Overdue / Order Now
+779,517,4,5,124,102,128,Safe,Overdue / Order Now
+780,517,4,6,187,102,128,Safe,Sufficient Stock
+781,517,5,4,106,76,138,Safe,Overdue / Order Now
+782,517,5,5,156,76,138,Safe,Sufficient Stock
+783,517,5,6,91,76,138,Safe,Overdue / Order Now
+784,517,6,4,57,41,89,Safe,Overdue / Order Now
+785,517,6,5,77,41,89,Safe,Overdue / Order Now
+786,517,6,6,86,41,89,Safe,Overdue / Order Now
+787,517,7,4,73,57,74,Safe,Overdue / Order Now
+788,517,7,5,65,57,74,Safe,Overdue / Order Now
+789,517,7,6,78,57,74,Safe,Sufficient Stock
+790,517,8,4,59,25,41,Safe,Sufficient Stock
+791,517,8,5,39,25,41,Safe,Overdue / Order Now
+792,517,8,6,42,25,41,Safe,Sufficient Stock
+793,517,9,4,113,63,99,Safe,Sufficient Stock
+794,517,9,5,100,63,99,Safe,Sufficient Stock
+795,517,9,6,103,63,99,Safe,Sufficient Stock
+796,517,10,4,55,24,47,Safe,Sufficient Stock
+797,517,10,5,38,24,47,Safe,Overdue / Order Now
+798,517,10,6,32,24,47,Safe,Overdue / Order Now
+799,517,11,4,23,8,13,Safe,Sufficient Stock
+800,517,11,5,19,8,13,Safe,Sufficient Stock
+801,517,11,6,20,8,13,Safe,Sufficient Stock
+802,517,12,4,28,15,24,Safe,Sufficient Stock
+803,517,12,5,28,15,24,Safe,Sufficient Stock
+804,517,12,6,20,15,24,Safe,Overdue / Order Now
+805,517,13,4,31,27,33,Safe,Overdue / Order Now
+806,517,13,5,24,27,33,Critical,Overdue / Order Now
+807,517,13,6,51,27,33,Safe,Sufficient Stock
+808,517,14,4,33,18,34,Safe,Overdue / Order Now
+809,517,14,5,31,18,34,Safe,Overdue / Order Now
+810,517,14,6,33,18,34,Safe,Overdue / Order Now
+811,517,15,4,393,243,297,Safe,Sufficient Stock
+812,517,15,5,325,243,297,Safe,Sufficient Stock
+813,517,15,6,235,243,297,Critical,Overdue / Order Now
+814,517,16,4,286,200,275,Safe,Sufficient Stock
+815,517,16,5,465,200,275,Safe,Sufficient Stock
+816,517,16,6,373,200,275,Safe,Sufficient Stock
+817,547,1,4,99,42,92,Safe,Sufficient Stock
+818,547,1,5,106,42,92,Safe,Sufficient Stock
+819,547,1,6,111,42,92,Safe,Sufficient Stock
+820,547,2,4,96,65,86,Safe,Sufficient Stock
+821,547,2,5,84,65,86,Safe,Overdue / Order Now
+822,547,2,6,104,65,86,Safe,Sufficient Stock
+823,547,3,4,178,83,176,Safe,Sufficient Stock
+824,547,3,5,123,83,176,Safe,Overdue / Order Now
+825,547,3,6,238,83,176,Safe,Sufficient Stock
+826,547,4,4,124,80,145,Safe,Overdue / Order Now
+827,547,4,5,80,80,145,Warning,Overdue / Order Now
+828,547,4,6,189,80,145,Safe,Sufficient Stock
+829,547,5,4,216,99,205,Safe,Sufficient Stock
+830,547,5,5,153,99,205,Safe,Overdue / Order Now
+831,547,5,6,183,99,205,Safe,Overdue / Order Now
+832,547,6,4,139,82,106,Safe,Sufficient Stock
+833,547,6,5,91,82,106,Safe,Overdue / Order Now
+834,547,6,6,166,82,106,Safe,Sufficient Stock
+835,547,7,4,85,43,75,Safe,Sufficient Stock
+836,547,7,5,118,43,75,Safe,Sufficient Stock
+837,547,7,6,126,43,75,Safe,Sufficient Stock
+838,547,8,4,67,62,96,Warning,Overdue / Order Now
+839,547,8,5,97,62,96,Safe,Sufficient Stock
+840,547,8,6,126,62,96,Safe,Sufficient Stock
+841,547,9,4,52,47,78,Safe,Overdue / Order Now
+842,547,9,5,81,47,78,Safe,Sufficient Stock
+843,547,9,6,72,47,78,Safe,Overdue / Order Now
+844,547,10,4,32,13,31,Safe,Sufficient Stock
+845,547,10,5,40,13,31,Safe,Sufficient Stock
+846,547,10,6,40,13,31,Safe,Sufficient Stock
+847,547,11,4,89,36,78,Safe,Sufficient Stock
+848,547,11,5,76,36,78,Safe,Overdue / Order Now
+849,547,11,6,40,36,78,Safe,Overdue / Order Now
+850,547,12,4,44,30,44,Safe,Reorder Point Reached
+851,547,12,5,79,30,44,Safe,Sufficient Stock
+852,547,12,6,72,30,44,Safe,Sufficient Stock
+853,547,13,4,43,15,35,Safe,Sufficient Stock
+854,547,13,5,37,15,35,Safe,Sufficient Stock
+855,547,13,6,35,15,35,Safe,Reorder Point Reached
+856,547,14,4,36,29,58,Safe,Overdue / Order Now
+857,547,14,5,82,29,58,Safe,Sufficient Stock
+858,547,14,6,35,29,58,Safe,Overdue / Order Now
+859,547,15,4,144,150,258,Critical,Overdue / Order Now
+860,547,15,5,297,150,258,Safe,Sufficient Stock
+861,547,15,6,208,150,258,Safe,Overdue / Order Now
+862,547,16,4,153,144,194,Warning,Overdue / Order Now
+863,547,16,5,177,144,194,Safe,Overdue / Order Now
+864,547,16,6,183,144,194,Safe,Overdue / Order Now
+865,578,1,4,192,84,169,Safe,Sufficient Stock
+866,578,1,5,119,84,169,Safe,Overdue / Order Now
+867,578,1,6,138,84,169,Safe,Overdue / Order Now
+868,578,2,4,189,88,131,Safe,Sufficient Stock
+869,578,2,5,158,88,131,Safe,Sufficient Stock
+870,578,2,6,102,88,131,Safe,Overdue / Order Now
+871,578,3,4,187,169,262,Safe,Overdue / Order Now
+872,578,3,5,183,169,262,Warning,Overdue / Order Now
+873,578,3,6,332,169,262,Safe,Sufficient Stock
+874,578,4,4,151,86,179,Safe,Overdue / Order Now
+875,578,4,5,217,86,179,Safe,Sufficient Stock
+876,578,4,6,119,86,179,Safe,Overdue / Order Now
+877,578,5,4,256,136,244,Safe,Sufficient Stock
+878,578,5,5,278,136,244,Safe,Sufficient Stock
+879,578,5,6,176,136,244,Safe,Overdue / Order Now
+880,578,6,4,248,119,204,Safe,Sufficient Stock
+881,578,6,5,304,119,204,Safe,Sufficient Stock
+882,578,6,6,270,119,204,Safe,Sufficient Stock
+883,578,7,4,59,54,69,Warning,Overdue / Order Now
+884,578,7,5,49,54,69,Critical,Overdue / Order Now
+885,578,7,6,73,54,69,Safe,Sufficient Stock
+886,578,8,4,107,41,73,Safe,Sufficient Stock
+887,578,8,5,91,41,73,Safe,Sufficient Stock
+888,578,8,6,89,41,73,Safe,Sufficient Stock
+889,578,9,4,87,38,60,Safe,Sufficient Stock
+890,578,9,5,61,38,60,Safe,Sufficient Stock
+891,578,9,6,42,38,60,Safe,Overdue / Order Now
+892,578,10,4,87,39,54,Safe,Sufficient Stock
+893,578,10,5,46,39,54,Safe,Overdue / Order Now
+894,578,10,6,67,39,54,Safe,Sufficient Stock
+895,578,11,4,48,19,34,Safe,Sufficient Stock
+896,578,11,5,56,19,34,Safe,Sufficient Stock
+897,578,11,6,62,19,34,Safe,Sufficient Stock
+898,578,12,4,19,12,29,Safe,Overdue / Order Now
+899,578,12,5,34,12,29,Safe,Sufficient Stock
+900,578,12,6,29,12,29,Safe,Reorder Point Reached
+901,578,13,4,26,22,34,Safe,Overdue / Order Now
+902,578,13,5,45,22,34,Safe,Sufficient Stock
+903,578,13,6,42,22,34,Safe,Sufficient Stock
+904,578,14,4,19,12,20,Safe,Overdue / Order Now
+905,578,14,5,27,12,20,Safe,Sufficient Stock
+906,578,14,6,20,12,20,Safe,Reorder Point Reached
+907,578,15,4,220,85,170,Safe,Sufficient Stock
+908,578,15,5,165,85,170,Safe,Overdue / Order Now
+909,578,15,6,145,85,170,Safe,Overdue / Order Now
+910,578,16,4,240,154,342,Safe,Overdue / Order Now
+911,578,16,5,270,154,342,Safe,Overdue / Order Now
+912,578,16,6,465,154,342,Safe,Sufficient Stock
+913,609,1,4,127,80,111,Safe,Sufficient Stock
+914,609,1,5,213,80,111,Safe,Sufficient Stock
+915,609,1,6,183,80,111,Safe,Sufficient Stock
+916,609,2,4,116,86,165,Safe,Overdue / Order Now
+917,609,2,5,218,86,165,Safe,Sufficient Stock
+918,609,2,6,230,86,165,Safe,Sufficient Stock
+919,609,3,4,209,119,156,Safe,Sufficient Stock
+920,609,3,5,116,119,156,Critical,Overdue / Order Now
+921,609,3,6,221,119,156,Safe,Sufficient Stock
+922,609,4,4,84,46,88,Safe,Overdue / Order Now
+923,609,4,5,112,46,88,Safe,Sufficient Stock
+924,609,4,6,86,46,88,Safe,Overdue / Order Now
+925,609,5,4,157,59,150,Safe,Sufficient Stock
+926,609,5,5,141,59,150,Safe,Overdue / Order Now
+927,609,5,6,142,59,150,Safe,Overdue / Order Now
+928,609,6,4,88,51,81,Safe,Sufficient Stock
+929,609,6,5,59,51,81,Safe,Overdue / Order Now
+930,609,6,6,118,51,81,Safe,Sufficient Stock
+931,609,7,4,95,36,80,Safe,Sufficient Stock
+932,609,7,5,62,36,80,Safe,Overdue / Order Now
+933,609,7,6,93,36,80,Safe,Sufficient Stock
+934,609,8,4,68,33,47,Safe,Sufficient Stock
+935,609,8,5,34,33,47,Warning,Overdue / Order Now
+936,609,8,6,34,33,47,Warning,Overdue / Order Now
+937,609,9,4,30,24,32,Safe,Overdue / Order Now
+938,609,9,5,45,24,32,Safe,Sufficient Stock
+939,609,9,6,50,24,32,Safe,Sufficient Stock
+940,609,10,4,50,17,28,Safe,Sufficient Stock
+941,609,10,5,39,17,28,Safe,Sufficient Stock
+942,609,10,6,56,17,28,Safe,Sufficient Stock
+943,609,11,4,28,20,27,Safe,Sufficient Stock
+944,609,11,5,52,20,27,Safe,Sufficient Stock
+945,609,11,6,32,20,27,Safe,Sufficient Stock
+946,609,12,4,42,44,57,Critical,Overdue / Order Now
+947,609,12,5,61,44,57,Safe,Sufficient Stock
+948,609,12,6,55,44,57,Safe,Overdue / Order Now
+949,609,13,4,32,17,28,Safe,Sufficient Stock
+950,609,13,5,43,17,28,Safe,Sufficient Stock
+951,609,13,6,36,17,28,Safe,Sufficient Stock
+952,609,14,4,97,38,62,Safe,Sufficient Stock
+953,609,14,5,61,38,62,Safe,Overdue / Order Now
+954,609,14,6,56,38,62,Safe,Overdue / Order Now
+955,609,15,4,282,130,251,Safe,Sufficient Stock
+956,609,15,5,266,130,251,Safe,Sufficient Stock
+957,609,15,6,307,130,251,Safe,Sufficient Stock
+958,609,16,4,171,125,220,Safe,Overdue / Order Now
+959,609,16,5,230,125,220,Safe,Sufficient Stock
+960,609,16,6,392,125,220,Safe,Sufficient Stock
+961,639,1,4,178,69,156,Safe,Sufficient Stock
+962,639,1,5,89,69,156,Safe,Overdue / Order Now
+963,639,1,6,146,69,156,Safe,Overdue / Order Now
+964,639,2,4,168,70,138,Safe,Sufficient Stock
+965,639,2,5,174,70,138,Safe,Sufficient Stock
+966,639,2,6,155,70,138,Safe,Sufficient Stock
+967,639,3,4,243,130,207,Safe,Sufficient Stock
+968,639,3,5,190,130,207,Safe,Overdue / Order Now
+969,639,3,6,263,130,207,Safe,Sufficient Stock
+970,639,4,4,158,61,113,Safe,Sufficient Stock
+971,639,4,5,92,61,113,Safe,Overdue / Order Now
+972,639,4,6,132,61,113,Safe,Sufficient Stock
+973,639,5,4,56,27,46,Safe,Sufficient Stock
+974,639,5,5,62,27,46,Safe,Sufficient Stock
+975,639,5,6,46,27,46,Safe,Reorder Point Reached
+976,639,6,4,206,120,140,Safe,Sufficient Stock
+977,639,6,5,169,120,140,Safe,Sufficient Stock
+978,639,6,6,222,120,140,Safe,Sufficient Stock
+979,639,7,4,65,46,52,Safe,Sufficient Stock
+980,639,7,5,97,46,52,Safe,Sufficient Stock
+981,639,7,6,44,46,52,Critical,Overdue / Order Now
+982,639,8,4,91,46,95,Safe,Overdue / Order Now
+983,639,8,5,72,46,95,Safe,Overdue / Order Now
+984,639,8,6,69,46,95,Safe,Overdue / Order Now
+985,639,9,4,143,57,149,Safe,Overdue / Order Now
+986,639,9,5,131,57,149,Safe,Overdue / Order Now
+987,639,9,6,179,57,149,Safe,Sufficient Stock
+988,639,10,4,30,17,30,Safe,Reorder Point Reached
+989,639,10,5,25,17,30,Safe,Overdue / Order Now
+990,639,10,6,37,17,30,Safe,Sufficient Stock
+991,639,11,4,65,37,53,Safe,Sufficient Stock
+992,639,11,5,48,37,53,Safe,Overdue / Order Now
+993,639,11,6,60,37,53,Safe,Sufficient Stock
+994,639,12,4,27,14,18,Safe,Sufficient Stock
+995,639,12,5,36,14,18,Safe,Sufficient Stock
+996,639,12,6,19,14,18,Safe,Sufficient Stock
+997,639,13,4,15,11,17,Safe,Overdue / Order Now
+998,639,13,5,22,11,17,Safe,Sufficient Stock
+999,639,13,6,22,11,17,Safe,Sufficient Stock
+1000,639,14,4,45,19,32,Safe,Sufficient Stock
+1001,639,14,5,23,19,32,Safe,Overdue / Order Now
+1002,639,14,6,46,19,32,Safe,Sufficient Stock
+1003,639,15,4,523,206,266,Safe,Sufficient Stock
+1004,639,15,5,444,206,266,Safe,Sufficient Stock
+1005,639,15,6,338,206,266,Safe,Sufficient Stock
+1006,639,16,4,380,318,422,Safe,Overdue / Order Now
+1007,639,16,5,451,318,422,Safe,Sufficient Stock
+1008,639,16,6,541,318,422,Safe,Sufficient Stock
+1009,670,1,4,436,163,326,Safe,Sufficient Stock
+1010,670,1,5,391,163,326,Safe,Sufficient Stock
+1011,670,1,6,307,163,326,Safe,Overdue / Order Now
+1012,670,2,4,325,204,314,Safe,Sufficient Stock
+1013,670,2,5,243,204,314,Safe,Overdue / Order Now
+1014,670,2,6,264,204,314,Safe,Overdue / Order Now
+1015,670,3,4,143,131,198,Warning,Overdue / Order Now
+1016,670,3,5,330,131,198,Safe,Sufficient Stock
+1017,670,3,6,321,131,198,Safe,Sufficient Stock
+1018,670,4,4,299,178,257,Safe,Sufficient Stock
+1019,670,4,5,324,178,257,Safe,Sufficient Stock
+1020,670,4,6,424,178,257,Safe,Sufficient Stock
+1021,670,5,4,166,116,133,Safe,Sufficient Stock
+1022,670,5,5,108,116,133,Critical,Overdue / Order Now
+1023,670,5,6,189,116,133,Safe,Sufficient Stock
+1024,670,6,4,136,75,139,Safe,Overdue / Order Now
+1025,670,6,5,170,75,139,Safe,Sufficient Stock
+1026,670,6,6,145,75,139,Safe,Sufficient Stock
+1027,670,7,4,70,59,82,Safe,Overdue / Order Now
+1028,670,7,5,97,59,82,Safe,Sufficient Stock
+1029,670,7,6,145,59,82,Safe,Sufficient Stock
+1030,670,8,4,226,102,233,Safe,Overdue / Order Now
+1031,670,8,5,283,102,233,Safe,Sufficient Stock
+1032,670,8,6,320,102,233,Safe,Sufficient Stock
+1033,670,9,4,65,32,55,Safe,Sufficient Stock
+1034,670,9,5,41,32,55,Safe,Overdue / Order Now
+1035,670,9,6,84,32,55,Safe,Sufficient Stock
+1036,670,10,4,104,44,67,Safe,Sufficient Stock
+1037,670,10,5,81,44,67,Safe,Sufficient Stock
+1038,670,10,6,95,44,67,Safe,Sufficient Stock
+1039,670,11,4,60,36,48,Safe,Sufficient Stock
+1040,670,11,5,70,36,48,Safe,Sufficient Stock
+1041,670,11,6,68,36,48,Safe,Sufficient Stock
+1042,670,12,4,75,32,51,Safe,Sufficient Stock
+1043,670,12,5,78,32,51,Safe,Sufficient Stock
+1044,670,12,6,39,32,51,Safe,Overdue / Order Now
+1045,670,13,4,72,30,48,Safe,Sufficient Stock
+1046,670,13,5,52,30,48,Safe,Sufficient Stock
+1047,670,13,6,74,30,48,Safe,Sufficient Stock
+1048,670,14,4,21,12,25,Safe,Overdue / Order Now
+1049,670,14,5,30,12,25,Safe,Sufficient Stock
+1050,670,14,6,26,12,25,Safe,Sufficient Stock
+1051,670,15,4,498,198,403,Safe,Sufficient Stock
+1052,670,15,5,365,198,403,Safe,Overdue / Order Now
+1053,670,15,6,271,198,403,Safe,Overdue / Order Now
+1054,670,16,4,421,207,342,Safe,Sufficient Stock
+1055,670,16,5,221,207,342,Warning,Overdue / Order Now
+1056,670,16,6,369,207,342,Safe,Sufficient Stock
+1057,700,1,4,206,97,174,Safe,Sufficient Stock
+1058,700,1,5,231,97,174,Safe,Sufficient Stock
+1059,700,1,6,242,97,174,Safe,Sufficient Stock
+1060,700,2,4,98,81,115,Safe,Overdue / Order Now
+1061,700,2,5,182,81,115,Safe,Sufficient Stock
+1062,700,2,6,124,81,115,Safe,Sufficient Stock
+1063,700,3,4,173,140,224,Safe,Overdue / Order Now
+1064,700,3,5,211,140,224,Safe,Overdue / Order Now
+1065,700,3,6,250,140,224,Safe,Sufficient Stock
+1066,700,4,4,457,224,387,Safe,Sufficient Stock
+1067,700,4,5,248,224,387,Safe,Overdue / Order Now
+1068,700,4,6,482,224,387,Safe,Sufficient Stock
+1069,700,5,4,222,209,333,Warning,Overdue / Order Now
+1070,700,5,5,429,209,333,Safe,Sufficient Stock
+1071,700,5,6,309,209,333,Safe,Overdue / Order Now
+1072,700,6,4,499,190,390,Safe,Sufficient Stock
+1073,700,6,5,332,190,390,Safe,Overdue / Order Now
+1074,700,6,6,385,190,390,Safe,Overdue / Order Now
+1075,700,7,4,106,42,59,Safe,Sufficient Stock
+1076,700,7,5,48,42,59,Safe,Overdue / Order Now
+1077,700,7,6,86,42,59,Safe,Sufficient Stock
+1078,700,8,4,90,64,101,Safe,Overdue / Order Now
+1079,700,8,5,106,64,101,Safe,Sufficient Stock
+1080,700,8,6,153,64,101,Safe,Sufficient Stock
+1081,700,9,4,165,69,102,Safe,Sufficient Stock
+1082,700,9,5,151,69,102,Safe,Sufficient Stock
+1083,700,9,6,90,69,102,Safe,Overdue / Order Now
+1084,700,10,4,99,45,81,Safe,Sufficient Stock
+1085,700,10,5,95,45,81,Safe,Sufficient Stock
+1086,700,10,6,59,45,81,Safe,Overdue / Order Now
+1087,700,11,4,32,32,52,Warning,Overdue / Order Now
+1088,700,11,5,52,32,52,Safe,Reorder Point Reached
+1089,700,11,6,47,32,52,Safe,Overdue / Order Now
+1090,700,12,4,116,45,77,Safe,Sufficient Stock
+1091,700,12,5,67,45,77,Safe,Overdue / Order Now
+1092,700,12,6,124,45,77,Safe,Sufficient Stock
+1093,700,13,4,21,7,19,Safe,Sufficient Stock
+1094,700,13,5,10,7,19,Safe,Overdue / Order Now
+1095,700,13,6,16,7,19,Safe,Overdue / Order Now
+1096,700,14,4,53,36,54,Safe,Overdue / Order Now
+1097,700,14,5,77,36,54,Safe,Sufficient Stock
+1098,700,14,6,42,36,54,Safe,Overdue / Order Now
+1099,700,15,4,103,71,92,Safe,Sufficient Stock
+1100,700,15,5,152,71,92,Safe,Sufficient Stock
+1101,700,15,6,126,71,92,Safe,Sufficient Stock
+1102,700,16,4,271,180,285,Safe,Overdue / Order Now
+1103,700,16,5,411,180,285,Safe,Sufficient Stock
+1104,700,16,6,260,180,285,Safe,Overdue / Order Now
+1105,731,1,4,158,97,160,Safe,Overdue / Order Now
+1106,731,1,5,254,97,160,Safe,Sufficient Stock
+1107,731,1,6,133,97,160,Safe,Overdue / Order Now
+1108,731,2,4,144,66,131,Safe,Sufficient Stock
+1109,731,2,5,186,66,131,Safe,Sufficient Stock
+1110,731,2,6,103,66,131,Safe,Overdue / Order Now
+1111,731,3,4,281,95,165,Safe,Sufficient Stock
+1112,731,3,5,238,95,165,Safe,Sufficient Stock
+1113,731,3,6,173,95,165,Safe,Sufficient Stock
+1114,731,4,4,476,236,396,Safe,Sufficient Stock
+1115,731,4,5,539,236,396,Safe,Sufficient Stock
+1116,731,4,6,534,236,396,Safe,Sufficient Stock
+1117,731,5,4,101,69,132,Safe,Overdue / Order Now
+1118,731,5,5,86,69,132,Safe,Overdue / Order Now
+1119,731,5,6,95,69,132,Safe,Overdue / Order Now
+1120,731,6,4,251,145,267,Safe,Overdue / Order Now
+1121,731,6,5,272,145,267,Safe,Sufficient Stock
+1122,731,6,6,136,145,267,Critical,Overdue / Order Now
+1123,731,7,4,109,124,173,Critical,Overdue / Order Now
+1124,731,7,5,233,124,173,Safe,Sufficient Stock
+1125,731,7,6,187,124,173,Safe,Sufficient Stock
+1126,731,8,4,106,73,139,Safe,Overdue / Order Now
+1127,731,8,5,200,73,139,Safe,Sufficient Stock
+1128,731,8,6,215,73,139,Safe,Sufficient Stock
+1129,731,9,4,118,97,119,Safe,Overdue / Order Now
+1130,731,9,5,192,97,119,Safe,Sufficient Stock
+1131,731,9,6,153,97,119,Safe,Sufficient Stock
+1132,731,10,4,106,40,68,Safe,Sufficient Stock
+1133,731,10,5,110,40,68,Safe,Sufficient Stock
+1134,731,10,6,71,40,68,Safe,Sufficient Stock
+1135,731,11,4,98,40,86,Safe,Sufficient Stock
+1136,731,11,5,77,40,86,Safe,Overdue / Order Now
+1137,731,11,6,110,40,86,Safe,Sufficient Stock
+1138,731,12,4,91,47,64,Safe,Sufficient Stock
+1139,731,12,5,95,47,64,Safe,Sufficient Stock
+1140,731,12,6,66,47,64,Safe,Sufficient Stock
+1141,731,13,4,45,32,39,Safe,Sufficient Stock
+1142,731,13,5,55,32,39,Safe,Sufficient Stock
+1143,731,13,6,42,32,39,Safe,Sufficient Stock
+1144,731,14,4,58,28,49,Safe,Sufficient Stock
+1145,731,14,5,57,28,49,Safe,Sufficient Stock
+1146,731,14,6,47,28,49,Safe,Overdue / Order Now
+1147,731,15,4,315,206,249,Safe,Sufficient Stock
+1148,731,15,5,440,206,249,Safe,Sufficient Stock
+1149,731,15,6,395,206,249,Safe,Sufficient Stock
+1150,731,16,4,328,163,347,Safe,Overdue / Order Now
+1151,731,16,5,503,163,347,Safe,Sufficient Stock
+1152,731,16,6,515,163,347,Safe,Sufficient Stock
